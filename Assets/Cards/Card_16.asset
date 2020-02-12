@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_16
+  m_EditorClassIdentifier: 
+  cardName: Monk
+  cardSprite: {fileID: 21300000, guid: fc7dbab11b6988e4b9dff4bb94213e17, type: 3}
+  locked: 0
+  cardHistory: Mantras are Aura-like skills that provide lasting bonuses to the Monk
+    and his allies. When Diablo III launched, the <size=48>Monk</size> possessed four
+    different Auras, each with five rune effects for variety. See the individual pages
+    in this category for specific details.
+  cardHealth: 4560
+  cardAttack: 700
+  cardDescription: Summon a Familiar that attacks your enemies for <color=lime>240%</color>
+    weapon damage as Arcane. This companion cannot be targeted or damaged by enemies.
+    Lasts <color=green>10</color> minutes.
+  currentExperience: 305
+  upgradeCost: 55
+  cardLevel: 7

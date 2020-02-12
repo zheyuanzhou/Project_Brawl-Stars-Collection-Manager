@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_01
+  m_EditorClassIdentifier: 
+  cardName: Rakanoth
+  cardSprite: {fileID: 21300000, guid: 26de4117d76688143bde12525fb7a482, type: 3}
+  locked: 1
+  cardHistory: Rakanoth, the Lord of <size=64>Despair</size>, served Andariel, the
+    Maiden of Anguish, with efficient brutality, for his touch may open up many painful
+    wounds. He was also the warden of Izual during many long years that the angel
+    suffered in Rakanoth's own Plains of Despair, but he has quit his realm unexpectedly
+    in recent times. He captured and tortured Auriel, Archangel of Hope, during the
+    events of Diablo III in order to break Heaven's will to drive back Diablo's hellish
+    minions.
+  cardHealth: 1229
+  cardAttack: 915
+  cardDescription: Create a flash of light that blinds all enemies within <color=lime>20</color>
+    yards for <color=lime>3</color> seconds. Elite enemies recover faster, but suffer
+    a <color=green>30%</color> chance to miss with attacks.
+  currentExperience: 0
+  upgradeCost: 50
+  cardLevel: 0

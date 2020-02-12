@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_06
+  m_EditorClassIdentifier: 
+  cardName: Andariel
+  cardSprite: {fileID: 21300000, guid: 683ee39984303994095f994a12bfb703, type: 3}
+  locked: 0
+  cardHistory: The <size=64>Maiden</size> of Anguish and Mistress of All Evil (voiced
+    by Lani Minella) is the only female of the Great Evils. Andariel appears as a
+    large, feminine demon, not unlike the succubi of the first game, and is the final
+    battle of Act I of Diablo II. According to her backstory, despite taking part
+    in the banishment of the Prime Evils, she followed Diablo to Sanctuary and wished
+    to gain his favor by guarding the way east, so that Diablo can free his brother
+    without interference. The heroes who set out in pursuit of Diablo confront Andariel
+    deep in the corrupted monastery of the Sisterhood of the Sightless Eye, which
+    guarded the passes between Khanduras and the eastern deserts of Aranoch.
+  cardHealth: 14640
+  cardAttack: 23250
+  cardDescription: 'Active: Empower the Law, granting you and your allies <color=lime>15%</color>
+    increased Attack Speed for <color=lime>5</color> seconds.
+
+
+    Passive: Recite the Law, granting you and your allies <color=green>8%</color>
+    increased Attack Speed.
+
+
+    <color=orange>Only one Law may be active at a time.</color>'
+  currentExperience: 770
+  upgradeCost: 120
+  cardLevel: 8

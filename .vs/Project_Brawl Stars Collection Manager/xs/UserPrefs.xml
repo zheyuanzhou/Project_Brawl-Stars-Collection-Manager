@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{1BDAC1BE-28C0-1323-1E09-C54A7C3E8080}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Card.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Card.cs" Line="2" Column="1" />
+      <File FileName="Assets/Scripts/CardManager.cs" Line="282" Column="5" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="71" Column="35" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="45" Column="10" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="9" Column="30" />
+      <File FileName="Assets/Scripts/BattleManager.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/SceneFader.cs" Line="4" Column="34" />
+      <File FileName="Assets/Scripts/CanvasAnimationControl.cs" Line="19" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

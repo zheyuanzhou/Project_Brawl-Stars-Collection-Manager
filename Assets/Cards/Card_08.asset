@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_08
+  m_EditorClassIdentifier: 
+  cardName: Lesser Evils
+  cardSprite: {fileID: 21300000, guid: 0ccf47d87be176646b745ec8b27ed09d, type: 3}
+  locked: 0
+  cardHistory: Directly under the Prime Evils in power are the Lesser Evils; like
+    the Prime Evils, the Lesser Evils are also siblings. Within the games and books
+    released so far, four Lesser Evils have been named, but it remains unclear whether
+    other demons with this title will be revealed.
+  cardHealth: 5500
+  cardAttack: 4290
+  cardDescription: Lay a trap of caltrops on the ground that activates when an enemy
+    approaches. Once sprung, the caltrops Slow the movement of enemies within <color=green>12</color>
+    yards by <color=lime>60%</color>. This trap lasts <color=red>6</color> seconds.
+  currentExperience: 330
+  upgradeCost: 65
+  cardLevel: 7

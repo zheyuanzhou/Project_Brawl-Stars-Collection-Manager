@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_14
+  m_EditorClassIdentifier: 
+  cardName: Rogue
+  cardSprite: {fileID: 21300000, guid: d161ad436fd021c47a310e9f0c16880b, type: 3}
+  locked: 1
+  cardHistory: The Rogue was the expert <size=64>archer</size> in Diablo I, though
+    the character was the most versatile in the game, capable of success at melee
+    combat with a sword and shield, or when properly equipped as a mini-mage.
+  cardHealth: 800
+  cardAttack: 3200
+  cardDescription: 'Surround yourself in a barrier of ice that reduces damage from
+    melee attacks by <color=lime>12%</color>. Melee attackers are either Chilled or
+    Frozen for <color=green>3</color> seconds. Lasts <color=red>10</color> minutes.
+
+
+    <color=orange>Only one Armor may be active at a time.</color>'
+  currentExperience: 0
+  upgradeCost: 70
+  cardLevel: 0

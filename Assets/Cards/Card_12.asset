@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_12
+  m_EditorClassIdentifier: 
+  cardName: Barbarian
+  cardSprite: {fileID: 21300000, guid: 5ac6c87aa35c6c6498e9211ec5bfc484, type: 3}
+  locked: 0
+  cardHistory: One of the first two classes introduced with Diablo 3, the Barbarian
+    is a powerful melee class that uses <size=48>fury</size> as a resource. The Barbarian
+    is the only one of the first five characters to use strength for a mainstat and
+    has consistently ranked as one of (or the) most popular class during the first
+    year of Diablo 3.
+  cardHealth: 4000
+  cardAttack: 7000
+  cardDescription: 'Haunt an enemy with a spirit, dealing <color=green>4000%</color>
+    weapon damage as Cold over <color=lime>12</color> seconds. If the enemy dies,
+    the spirit will haunt another nearby enemy.
+
+
+    <color=orange>An enemy can only be affected by one Haunt at a time.</color>'
+  currentExperience: 255
+  upgradeCost: 120
+  cardLevel: 6

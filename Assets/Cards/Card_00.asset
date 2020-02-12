@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_00
+  m_EditorClassIdentifier: 
+  cardName: Beaver
+  cardSprite: {fileID: 21300000, guid: 61d96c2956748bc4daf9549dc85cf570, type: 3}
+  locked: 0
+  cardHistory: '"<size=64>S</size>till you refuse to bend your knee? <size=48>None</size>
+    can escape death, you old fool, And in death... all will serve me..."'
+  cardHealth: 1922
+  cardAttack: 3819
+  cardDescription: 'Teleport to your target and unleash a series of extremely fast
+    punches that deal <color=green>200%</color> weapon damage as Lightning.
+
+
+    Every third hit deals <color=lime>400%</color> weapon damage as Lightning split
+    between all enemies in front of you.'
+  currentExperience: 600
+  upgradeCost: 10
+  cardLevel: 8

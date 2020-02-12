@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_15
+  m_EditorClassIdentifier: 
+  cardName: Amazon
+  cardSprite: {fileID: 21300000, guid: c4b6adfd4e3f22e478b9eca1f4ff118a, type: 3}
+  locked: 1
+  cardHistory: In Diablo II the Amazon was the archer character, though it was possible
+    to use a bow with some success with a few other character builds. Bow-devoted
+    Amazons were commonly called "bowazons" and they specialized entirely in archery,
+    though hybrid 'zons were also popular, mixing some spear or javelin skills in
+    with the archery.
+  cardHealth: 4050
+  cardAttack: 7000
+  cardDescription: Gather an infusion of energy around you that explodes after <color=lime>1.5</color>
+    seconds for <color=lime>945%</color> weapon damage as Arcane to all enemies within
+    <color=green>12</color> yards.
+  currentExperience: 0
+  upgradeCost: 50
+  cardLevel: 0

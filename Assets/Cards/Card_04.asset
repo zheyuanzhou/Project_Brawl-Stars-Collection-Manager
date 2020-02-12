@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_04
+  m_EditorClassIdentifier: 
+  cardName: Belial
+  cardSprite: {fileID: 21300000, guid: 0971d9d428bd6d2409dc91aedc2df8c7, type: 3}
+  locked: 1
+  cardHistory: Belial, the Lord of <size=64>Lies</size> (voiced by Jim Ward), is a
+    master of subterfuge and deception, and the final boss of Act II of Diablo III.
+    Belial, along with his brother Azmodan, masterminded the exile of the Prime Evils
+    to Sanctuary. In Diablo III, a powerful hero finds that Belial has replaced the
+    young Emperor Hakan as ruler of Caldeum, and is attempting to assert control over
+    the region with his demonic serpent minions, and the demon witch Maghda and her
+    occultist coven.
+  cardHealth: 4050
+  cardAttack: 1400
+  cardDescription: 'Deal <color=lime>300%</color> weapon damage to all nearby enemies.
+    You heal <color=lime>4%</color> of your maximum Life for each enemy hit.
+
+
+    Revenge has a <color=green>15%</color> chance to gain a charge each time you are
+    hit. Maximum <color=red>2</color> charges.'
+  currentExperience: 0
+  upgradeCost: 200
+  cardLevel: 0

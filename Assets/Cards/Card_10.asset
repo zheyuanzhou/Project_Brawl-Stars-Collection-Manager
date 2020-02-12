@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_10
+  m_EditorClassIdentifier: 
+  cardName: Baal
+  cardSprite: {fileID: 21300000, guid: f1dd4467b266bd042b3ae33c5fe175f8, type: 3}
+  locked: 1
+  cardHistory: Baal, the Lord of <size=64>Destruction</size> (voiced by Milton James)
+    is the main antagonist of Lord of Destruction, the expansion to Diablo II. Baal
+    was the second of the Prime Evils to be captured; a group of Horadrim under the
+    venerable mage Tal Rasha hunted him down into the deserts of Aranoch. The Horadrim
+    managed to defeat him, but during the encounter, Baal's destructive nature shattered
+    the <size=48>Soulstone</size> that was to be his prison. It was during this moment
+    that Tal Rasha stepped forward.
+  cardHealth: 680
+  cardAttack: 1200
+  cardDescription: 'Launch a Bone Spirit that will seek enemies. Deals 4000% weapon
+    damage as Physical on impact.
+
+
+    You gain a charge every <color=lime>15</color> seconds and can store up to <color=green>3</color>
+    charges. Recharge time is reduced by <color=lime>1</color> second for each corpse
+    you consume.'
+  currentExperience: 0
+  upgradeCost: 200
+  cardLevel: 0

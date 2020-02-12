@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_11
+  m_EditorClassIdentifier: 
+  cardName: Diablo
+  cardSprite: {fileID: 21300000, guid: e52e556ead7598b4bb1634151be69cb0, type: 3}
+  locked: 0
+  cardHistory: Diablo, the Lord of <size=64>Terror</size> (voiced by Bill Roper, later
+    by JB Blanc), is the titular character and main antagonist of the game series.
+    He is also the youngest and most powerful of the three Prime Evils. Diablo and
+    his elder brothers Mephisto and Baal ruled over Hell as a sovereign triumvirate
+    until overthrown by the Lesser Evils Azmodan and Belial, who banished the Prime
+    Evils to the mortal world of Sanctuary. However, Diablo's game manual implies
+    that the "Dark Exile", as this became known, was in fact intended by the Prime
+    Evils in order to corrupt the mortal world <size=48>personally</size>.
+  cardHealth: 3125
+  cardAttack: 1630
+  cardDescription: Ghoulish hands reach out from the ground, slowing enemy movement
+    by <color=lime>60%</color> and dealing <color=red>760%</color> weapon damage as
+    Physical over <color=lime>8</color> seconds.
+  currentExperience: 680
+  upgradeCost: 200
+  cardLevel: 8

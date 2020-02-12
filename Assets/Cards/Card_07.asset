@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c47723dba73f748ac8cded55f0309a, type: 3}
+  m_Name: Card_07
+  m_EditorClassIdentifier: 
+  cardName: Anyfin
+  cardSprite: {fileID: 21300000, guid: 6b7351b4b2c0faa489600810b87be20f, type: 3}
+  locked: 1
+  cardHistory: '"Oh, <size=64>monster</size>? Perhaps you should speak to me more
+    softly then. Monsters are dangerous and just now Kings are <size=48>dying like
+    flies</size>."'
+  cardHealth: 2000
+  cardAttack: 4780
+  cardDescription: 'Hurl your shield, dealing <color=lime>430%</color> weapon damage
+    as Holy plus <color=green>250%</color> of shield Block Chance as Holy damage.
+    The shield will ricochet to <color=red>3</color> nearby enemies.
+
+
+    <color=orange>Requires Shield</color>'
+  currentExperience: 0
+  upgradeCost: 80
+  cardLevel: 0
